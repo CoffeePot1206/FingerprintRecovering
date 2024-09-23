@@ -10,3 +10,5 @@ This is a course project for Computer Vision, lectured by Prof. Yang Gao. For mo
 ## Test
 
 For testing, simply run the script `process.py`. It will automatically corrupt the fingerprint images in test set, and recover it using the pretrained model. 
+
+Corruption and recovering examples can be seen in the directory `testcopy`(mainly for Gaussian noise corruption).
